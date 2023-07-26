@@ -13,3 +13,4 @@ print("new Hello git whith changes");
 
 // git cheackout: para volver al codigo del ultimo commit
 // git diff: te muestra las diferencias de tu codigo actual con las del ultimo commit 
+// git checkout id: si ponemos el id del commit, podemos poner el head en un commit anterior 

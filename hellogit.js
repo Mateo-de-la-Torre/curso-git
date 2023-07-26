@@ -24,3 +24,6 @@ print("new Hello git whith changes");
 // OTRA RAMA
 // git branch nombre de la rama: crea una nueva rama
 // git switch nombre de la rama: para cambiar el head de rama
+
+// git merge main: me traigo a la rama creada, lo q hay en main
+// git stash: sirve para guardar sin hacer un commit

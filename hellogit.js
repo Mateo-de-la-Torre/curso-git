@@ -20,3 +20,7 @@ print("new Hello git whith changes");
 
 // git reflog: es como el log pero te muestra todos los commit por mas de haber hecho el reset --hard
 // git tag: le damos una etiqueta al commit
+
+// OTRA RAMA
+// git branch nombre de la rama: crea una nueva rama
+// git switch nombre de la rama: para cambiar el head de rama

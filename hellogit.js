@@ -1,1 +1,1 @@
-print("Hello git"); // git init
+print("new Hello git"); // git init

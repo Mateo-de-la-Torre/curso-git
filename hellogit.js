@@ -27,3 +27,9 @@ print("Hello github whith changes");
 
 // git merge main: me traigo a la rama creada, lo q hay en main
 // git stash: sirve para guardar sin hacer un commit
+
+// git push: para sunirlo a github
+
+// git pull: se descarga de github los cambios q no estan en el local el historial sin los cambios
+
+// git fetch: para ver el estado de los cambios
